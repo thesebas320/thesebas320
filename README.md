@@ -19,20 +19,9 @@
 nome: Sebastian Andres Sierra Diaz
 localização: São Paulo, Brasil
 
-educação:
-  [
-    "Técnico em Informática para Internet - ETECVAV",
-  ]
----
-áreas_de_interesse:
-  [
-    "Desenvolvimento Web",
-    "Artes digitais",
-    "Banco de Dados",
-    "Programação",
-    "Tecnologia",
-    "",
-  ]
+educação: ["Técnico em Informática para Internet - ETECVAV",]
+
+áreas_de_interesse: ["Desenvolvimento Web","Artes digitais","Banco de Dados","Programação","Tecnologia","",]
 ---
 atualmente_aprendendo:
   [

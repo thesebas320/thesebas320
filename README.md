@@ -4,6 +4,8 @@
 
 <h1 align="center">
    E aí? Sou Sebastian
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWtsN3ZvazNhMDhkcHRqcDVnOG8xYmlkZWNiNm1uNjd4ZmE3cDlzYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ivSCbBQjwLz7q/giphy.gif" width="35px">
+
 </h1>
 
 <p align="center">
@@ -17,7 +19,7 @@
 
 
 <h3>Nome:</h3> Sebastian Andres Sierra Diaz
-<h3>localização:</h3> São Paulo, Brasil
+<h3>Localização:</h3> São Paulo, Brasil
 
 <h3>Educação:</h3> Técnico em Informática para Internet - ETECVAV
 

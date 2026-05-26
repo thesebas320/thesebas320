@@ -23,7 +23,7 @@ educação:
   [
     "Técnico em Informática para Internet - ETECVAV",
   ]
-
+---
 áreas_de_interesse:
   [
     "Desenvolvimento Web",
@@ -33,7 +33,7 @@ educação:
     "Tecnologia",
     "",
   ]
-
+---
 atualmente_aprendendo:
   [
     "HTML",
@@ -41,14 +41,14 @@ atualmente_aprendendo:
     "Banco de Dados",
     "C++",
   ]
-
+---
 objetivos:
   [
     "Criar projetos cada vez mais profissionais",
     "Programar em diversas linguagens",
     "Aprender novos idiomas",
   ]
-
+---
 hobbies:
   [
     "Jogar videogame",

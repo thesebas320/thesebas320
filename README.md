@@ -4,7 +4,7 @@
 
 <h1 align="center">
    E aí? Sou Sebastian
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWtsN3ZvazNhMDhkcHRqcDVnOG8xYmlkZWNiNm1uNjd4ZmE3cDlzYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ivSCbBQjwLz7q/giphy.gif" width="35px">
+  <img src=" width="35px">
 
 </h1>
 

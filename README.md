@@ -19,15 +19,15 @@
 <h3>Nome:</h3> Sebastian Andres Sierra Diaz
 <h3>localização:</h3> São Paulo, Brasil
 
-<h3>Educação:</h3> "Técnico em Informática para Internet - ETECVAV"
+<h3>Educação:</h3> Técnico em Informática para Internet - ETECVAV
 
-<h3>Áreas de interesse:</h3> "Desenvolvimento Web", "Artes digitais", "Banco de Dados", "Programação", "Tecnologia"
+<h3>Áreas de interesse:</h3> Desenvolvimento Web, artes digitais, banco de Dados, programação, tecnologia.
 
-Atualmente aprendendo: "HTML","CSS","Banco de Dados","C++"
+<h3>Atualmente aprendendo:</h3> HTML, CSS, DER, C++.
 
-Objetivos: "Criar projetos cada vez mais profissionais", "Programar em diversas linguagens", "Aprender novos idiomas"
+<h3>Objetivos:</h3> Criar projetos cada vez mais profissionais, programar em diversas linguagens, aprender novos idiomas.
 
-Hobbies: "Jogar videogame", "Aprender inglês", "Escutar música", "Jogar basquete", "Desenhar
+<h3>Hobbies:</h3> Jogar videogame, aprender inglês, escutar música, jogar basquete, desenhar.
 
 
 ---

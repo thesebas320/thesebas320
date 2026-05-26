@@ -16,12 +16,12 @@
 <h2>  Sobre Mim </h2>
 
 
-Nome: Sebastian Andres Sierra Diaz
-localização: São Paulo, Brasil
+<h3>Nome:</h3> Sebastian Andres Sierra Diaz
+<h3>localização:</h3> São Paulo, Brasil
 
-Educação: "Técnico em Informática para Internet - ETECVAV"
+<h3>Educação:</h3> "Técnico em Informática para Internet - ETECVAV"
 
-Áreas de interesse: "Desenvolvimento Web", "Artes digitais", "Banco de Dados", "Programação", "Tecnologia"
+<h3>Áreas de interesse:</h3> "Desenvolvimento Web", "Artes digitais", "Banco de Dados", "Programação", "Tecnologia"
 
 Atualmente aprendendo: "HTML","CSS","Banco de Dados","C++"
 

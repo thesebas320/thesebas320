@@ -1,16 +1,74 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=180&section=header&text=Calebe%20Barros&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+</p>
 
-<!--
-**thesebas320/thesebas320** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">
+   E aí? Sou Sebastian
+</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+ Estudante do Ensino Médio cursando técnico em Informática para Internet <br>
+ Etec Vasco Antônio Venchiarutti
+-ETECVAV — INFONET <br>
+  
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>  Sobre Mim </h2>
+
+```yaml
+nome: Sebastian Andres Sierra Diaz
+localização: São Paulo, Brasil
+
+educação:
+  [
+    "Técnico em Informática para Internet - ETECVAV",
+  ]
+
+áreas_de_interesse:
+  [
+    "Desenvolvimento Web",
+    "Artes digitais",
+    "Banco de Dados",
+    "Programação",
+    "Tecnologia",
+    "",
+  ]
+
+atualmente_aprendendo:
+  [
+    "HTML",
+    "CSS",
+    "Banco de Dados",
+    "C++",
+  ]
+
+objetivos:
+  [
+    "Criar projetos cada vez mais profissionais",
+    "Programar em diversas linguagens",
+    "Aprender novos idiomas",
+  ]
+
+hobbies:
+  [
+    "Jogar videogame",
+    "Aprender inglês",
+    "Escutar música",
+    "Jogar basquete",
+    "Desenhar",
+  ]
+```
+
+---
+
+<h2>  Ferramentas e linguagens de programação </h2>
+
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" height="45"/>
+</p>
+
+---

@@ -15,7 +15,7 @@
 
 <h2>  Sobre Mim </h2>
 
-```
+
 nome: Sebastian Andres Sierra Diaz
 localização: São Paulo, Brasil
 
@@ -57,7 +57,7 @@ hobbies:
     "Jogar basquete",
     "Desenhar",
   ]
-```
+
 
 ---
 
